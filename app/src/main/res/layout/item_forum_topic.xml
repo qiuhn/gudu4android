@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingLeft="@dimen/topic_list_screen"
+                android:paddingRight="@dimen/topic_list_screen">
+
+    <RelativeLayout
+        android:id="@+id/rl_top"
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/topic_list_userinfo_hight">
+
+        <ImageView
+            android:id="@+id/iv_avatar"
+            android:layout_width="@dimen/topic_list_userinfo_hight"
+            android:layout_height="@dimen/topic_list_userinfo_hight"
+            android:src="@drawable/logo"/>
+
+        <TextView
+            android:id="@+id/tv_username"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_toRightOf="@id/iv_avatar"
+            android:text="用户名"
+            />
+
+        <TextView
+            android:id="@+id/tv_time"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@id/iv_avatar"
+            android:layout_alignParentBottom="true"
+            android:layout_toRightOf="@id/iv_avatar"
+            android:text="时间"
+            />
+        <TextView
+            android:id="@+id/tv_reply_count"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentRight="true"
+            android:drawableLeft="@drawable/btn_comment_list"
+            android:text="321"/>
+        <TextView
+            android:id="@+id/tv_like_count"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+           android:layout_toLeftOf="@id/tv_reply_count"
+            android:drawableLeft="@drawable/btn_comment_list"
+            android:text="321"/>
+    </RelativeLayout>
+
+
+    <TextView
+        android:id="@+id/tv_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/rl_top"
+        android:text="标题"
+        />
+
+    <TextView
+        android:id="@+id/tv_content"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tv_title"
+        android:text="内容"
+        />
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/rv_topic_images"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tv_content"
+        android:layout_centerVertical="true"
+        android:scrollbars="none"/>
+</RelativeLayout>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="SectionTextView">
+        <attr name="leftText" format="string" />
+        <attr name="centerText" format="string" />
+        <attr name="rightText_src" format="reference"/>
+    </declare-styleable>
+    <declare-styleable name="My_EditText">
+        <attr name="text_hint" format="string" />
+        <attr name="text_color" format="color" />
+        <attr name="text_size" format="dimension" />
+        <attr name="bg_color" format="color" />
+    </declare-styleable>
+</resources>

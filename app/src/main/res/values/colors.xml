@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="login_gb">#f1f1f1</color>
+	<color name="tab_color">#e55a39</color>
+	<color name="test">#B2A7A7</color>
+	<color name="blue_sky">#A0C8FF</color>
+	<color name="vert_manu">#CCFF00</color>
+	<color name="black">#000000</color>
+	<color name="white">#FFFFFF</color>
+	<color name="top">#fffdf5</color>
+	<color  name="red2">#e55a39</color>
+	<color name="red">#FF0000</color>
+	<color name="orange">#FF7F00</color>
+	<color name="blue_bg">#1976D2</color>
+	<color name="blue_text">#2196F3</color>
+	<color name="white_rice">#f6f2ed</color>
+	<color name="navpage">#ffe1e0de</color>
+	<color name="photo_thumbnail_bg">#ffe7e7e7</color>
+	<color name="transparent">#00000000</color>
+	<color name="translucent">#e0000000</color>
+	<color name="comment_pressed">#ffdfe4e8</color>
+	<color name="likeUserDividerNormal">#ffbec1c8</color>
+	<color name="likeUserDividerChanged">#ffdce0e5</color>
+	<color name="likeUserBg">#ffffffff</color>
+	<color name="likeUserBgPressed">#ffeeeeee</color>
+	<color name="summonUserListNormal">#ffeeeff0</color>
+	<color name="summonUserListPressed">#ffdfe4e8</color>
+	<color name="stickerAttachmentNormal">#ffe5e6e8</color>
+	<color name="listStickerBackground">#fff2f3f5</color>
+	<color name="v2_common_bg_color">#fff4f5f6</color>
+	<color name="v2_more_tab_bg_color">#ffdadee4</color>
+	<color name="background_default">#ffffffff</color>
+	<color name="view_background_default">#ffffffff</color>
+	<color name="no_contents_background">#fff4f5f8</color>
+	<color name="list_bg_temp">#fffafafa</color>
+	<color name="darkgray">#DCDCDC</color>
+	<color name="list_bg">#fff4f5f6</color>
+	<color name="stickershop_bg">#fffafafa</color>
+	<color name="listitem_bg">#fff4f5f6</color>
+	<color name="listitem_bg_selected">#ffd9dcde</color>
+	<color name="listitem_topline">#ffffffff</color>
+	<color name="listitem_topline_selected">#ffd9dcde</color>
+	<color name="listitem_bottomline">#ffd9dcde</color>
+	<color name="listitem_bottomline_selected">#ffd9dcde</color>
+	<color name="list_row_text_main">#ff000000</color>
+	<color name="list_row_text_sub">#ff787f88</color>
+	<color name="limpidity">#00000000</color>
+	<color name="reg_clear_text">#ff333333</color>
+	<color name="reg_text">#ff7c7c7c</color>
+	<color name="reg_input_text">#ff333333</color>
+	<color name="reg_input_hint">#ffabaebb</color>
+	<color name="settings_bg">#ffd3d3d3</color>
+	<color name="settings_btn_add">#ff747980</color>
+	<color name="settings_btn_text">#ff68798c</color>
+	<color name="settings_field_cnt_valid">#ff929394</color>
+	<color name="settings_field_cnt_invalid">#ffde4d1b</color>
+	<color name="friend_name">#ff111111</color>
+	<color name="new_friend_background">#ffddedd5</color>
+	<color name="friend_status_msg">#ff787f88</color>
+	<color name="group_text">#ffb1b4b9</color>
+	<color name="shake_list_row_status_message_complete">#ff171a21</color>
+	<color name="shake_list_row_status_message_complete_shadow">#ffffffff</color>
+	<color name="shake_list_row_status_message_waiting">#ffb7b8bc</color>
+	<color name="shake_list_row_status_message_waiting_shadow">#ffffffff</color>
+	<color name="choosemember_row_bg_group">#ffe7eaed</color>
+	<color name="choosemember_row_bg_selected_group">#ffcccfd1</color>
+	<color name="choosemember_row_bg_friend">#fff5f5f6</color>
+	<color name="choosemember_row_bg_selected_friend">#ffd9dcde</color>
+	<color name="location_phone_number_link">#ff71747b</color>
+	<color name="new_noti_item">#fffffbe2</color>
+	<color name="coin_history_row_normal">#ffffffff</color>
+	<color name="coin_history_row_pressed">#fff5f5f5</color>
+	<color name="coin_color_plus">#ff969696</color>
+	<color name="coin_color_minus">#ffd30000</color>
+	<color name="channelheader_default_btntext_shadow">#ff171e29</color>
+	<color name="channelheader_blue_btntext_shadow">#ff4987b9</color>
+	<color name="channelheader_blue_title_shadow">#ff4387bc</color>
+	<color name="channelheader_brown_btntext_shadow">#ff5f4c29</color>
+	<color name="channelheader_brown_title_shadow">#ff866637</color>
+	<color name="channelheader_red_btntext_shadow">#ffcd171a</color>
+	<color name="channelheader_red_title_shadow">#ffb73236</color>
+	<color name="channelheader_purple_btntext_shadow">#ff120331</color>
+	<color name="channelheader_purple_title_shadow">#ff211044</color>
+	<color name="channelheader_gray_btntext_shadow">#ff2e2e2e</color>
+	<color name="channelheader_gray_title_shadow">#ff212121</color>
+	<color name="channelheader_lgray_title">#ffd23939</color>
+	<color name="channelheader_lgray_btntext_shadow">#fff6f6f6</color>
+	<color name="channelheader_lgray_title_shadow">#fff6f6f6</color>
+	<color name="channelheader_skyblue_title">#ffffffff</color>
+	<color name="channelheader_skyblue_btntext_shadow">#ff62799e</color>
+	<color name="channelheader_skyblue_title_shadow">#ff7089af</color>
+	<color name="message_red">#ee3b3b</color>
+	<color name="invite_friend_color">#6a5acd</color>
+	<color name="feed_title_color">#838b8b</color>
+	<color name="feed_tip_color"> #eead0e</color>
+	<color name="black_rice">#515151</color>
+	<color name="color_black">#000000</color>
+	<color name="color_white">#FFFFFF</color>
+	<color name="color_white_light">#DEDDDD</color>
+	<color name="color_violet">#9900FF</color>
+	<color name="color_gray">#736F6E</color>
+	<color name="color_dark">#161C27</color>
+	<color name="color_light">#4D6288</color>
+	<color name="color_blue">#67BED9</color>
+	<color name="color_blue_light">#E5EFEF</color>
+	<color name="blue">#0066FF</color>
+	<color name="bright">#66FF33</color>
+	<color name="grey">#bb9D9C9C</color>
+	<!-- In-call UI -->
+	<!-- <color name="incall_textConnected">#99CE3F</color>  green -->
+	<color name="incall_textConnected">#40CEA3</color>
+	<color name="incall_textEnded">#FF6072</color> <!-- red -->
+	<color name="incall_textOnHold">#FF9524</color> <!-- orange -->
+	<!-- DTMF Dialer -->
+	<color name="dtmf_dialer_background">#333333</color> <!-- green -->
+	<color name="recording_time_elapsed_text">#FFFFFFFF</color>
+	<color name="recording_time_remaining_text">#FFFF0033</color>
+	<color name="transparent_background">#0000</color>
+	<color name="lightgrey">#ff888888</color>
+	<color name="semitransparent">#80000000</color>
+	<color name="settings_item_divider_color">#ffe0e0dc</color>
+	<color name="g_child_page_bg_color">#ffe2e2db</color>
+	<color name="text_gray_color_b3b3b3">#ffb3b3b3</color>
+	<color name="text_green_color">#00ae11</color>
+	<color name="text_white_shadow_color">#ff5a9487</color>
+	<color name="list_view_divider_color_cccccc">#ffcccccc</color>
+	<color name="help_color">#ff999999</color>
+	<color name="list_view_item_color">#fff7f7f2</color>
+	<color name="list_view_item_hover_color">#ffebebe6</color>
+	<color name="defalut_bg_color">#efe</color>
+	<color name="background_dark">#DBDBDB</color>
+	<color name="default_color">#00ae11</color>
+	<color name="class_A">#ffffffff</color>
+	<color name="voip_key_bg">#3b434b</color>
+	<color name="app_text_color">#107ff0</color>
+	<color name="friendinfo_btn_bg">#374248</color>
+	<color name="friendinfo_btn_bg_prossed">#cccccc</color>
+	<color name="app_default_color">#eee</color>
+	<color name="tab_item_text_back_color">#7d8285</color>
+	<color name="green_line_bg">#ff45c01a</color>
+	<color name="dialog_msg_color">#ff818282</color>
+	<color name="menu_devider_color">#ff282a2b</color>
+	<item name="menu_pressed_color" type="color">@color/menu_devider_color</item>
+	<!-- drop down list header font color -->
+	<color name="drop_down_list_header_font_color">#000000</color>
+	<!-- drop down list header second font color -->
+	<color name="drop_down_list_header_second_font_color">#000000</color>
+	<!-- drop down list footer font color -->
+	<color name="drop_down_list_footer_font_color">#000000</color>
+	<!-- qcode san -->
+	<color name="bg_color">#EDEDED</color>
+	<color name="contents_text">#ff000000</color>
+	<color name="encode_view">#ffffffff</color>
+	<color name="help_button_view">#ffcccccc</color>
+	<color name="help_view">#ff404040</color>
+	<color name="possible_result_points">#c0ffff00</color>
+	<color name="result_image_border">#ffffffff</color>
+	<color name="result_minor_text">#ffc0c0c0</color>
+	<color name="result_points">#c000ff00</color>
+	<color name="result_text">#ffffffff</color>
+	<color name="result_view">#b0000000</color>
+	<color name="sbc_header_text">#ff808080</color>
+	<color name="sbc_header_view">#ffffffff</color>
+	<color name="sbc_list_item">#fffff0e0</color>
+	<color name="sbc_layout_view">#ffffffff</color>
+	<color name="sbc_page_number_text">#ff000000</color>
+	<color name="sbc_snippet_text">#ff4b4b4b</color>
+	<color name="share_text">#ff000000</color>
+	<color name="share_view">#ffffffff</color>
+	<color name="status_view">#50000000</color>
+	<color name="status_text">#ffffffff</color>
+	<color name="viewfinder_frame">#ff000000</color>
+	<color name="viewfinder_laser">#ffff0000</color>
+	<color name="viewfinder_mask">#60000000</color>
+	<color name="header">#58567D</color>
+	<color name="grgray">#686868</color>
+	<!-- 天蓝色 -->
+	<color name="gray">#808080</color>
+	<color name="almost_gray">#f6f2ed</color>
+	<color name="almost_gray_2">#e7e2dd</color>
+		
+	<!-- 灰色 -->
+	<!-- 暗灰色 -->
+	<color name="dimgrey">#696969</color>
+	<color name="global_label">#c3bdc4</color>
+	<color name="my_common_setting_label">#9c958a</color>
+	<color name="listViewBorder">#f4f0eb</color>
+	<!-- 功能模块背影色点击 -->
+	<color name="function_press_true">#ddd5cb</color>
+	<color name="function_press_false">#eae2d8</color>
+	
+	
+	<color name="holdtextcolor">#403b36</color>
+	<color name="graytextcolor">#9c958a</color>
+	
+	
+	<color name="starcolor">#5b5752</color>
+	
+	<!-- 黑色 -->
+	<color name="black1">#4E4E4E</color>
+	<color name="textview_hint">#b6b6b6</color>
+</resources>

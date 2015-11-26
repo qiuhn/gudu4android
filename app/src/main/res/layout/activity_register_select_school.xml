@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white_rice"
+    android:orientation="vertical" >
+
+    <com.qiuhn.gudu.ui.view.ClearEditText
+        android:id="@+id/search_bar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/px16"
+        android:layout_marginTop="@dimen/px40"
+        android:background="@drawable/g_round_box_bg"
+        android:drawableLeft="@drawable/search_bar_icon_normal"
+        android:gravity="center"
+        android:hint="@string/register_search_school_hint"
+        android:imeOptions="actionSearch"
+        android:minHeight="@dimen/px60"
+        android:paddingLeft="@dimen/px15"
+        android:singleLine="true"
+        android:textColorHint="#9c958a" />
+	
+    <ListView
+        android:id="@+id/lv_search_result"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/px16" >
+    </ListView>
+
+</LinearLayout>
